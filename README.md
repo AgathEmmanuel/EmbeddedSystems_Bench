@@ -17,6 +17,7 @@
 - FPGA, VHDL, Verilog, Logic
 - Networking and Communication
 - DSP, Control, Filtering, Maths
+- Microprocessors and Microcontrollers
 
 
 
