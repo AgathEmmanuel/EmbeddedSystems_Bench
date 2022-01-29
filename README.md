@@ -27,3 +27,9 @@
 - [https://nptel.ac.in/content/syllabus_pdf/108102045.pdf](https://nptel.ac.in/content/syllabus_pdf/108102045.pdf)
 - [KiCad Tutorials](https://youtube.com/playlist?list=PLOqygfz5v1hZGGmDPdZqRpuc_dz5cNL1M)
 - [Embedded Programming](https://youtube.com/playlist?list=PLOqygfz5v1ha5RXpvZds-99ODaeFPUQ-y)
+
+> Arduinos
+- [https://www.arrow.com/en/research-and-events/articles/arduino-uno-vs-mega-vs-micro](https://www.arrow.com/en/research-and-events/articles/arduino-uno-vs-mega-vs-micro)
+
+> Circuit Design
+- [https://www.circuito.io](https://www.circuito.io)
